@@ -11,7 +11,9 @@ const Admin = () => {
                     <p>Anderson Marlon</p>
                 </Avatar>
                 <PowerButton>
-                    <img src={PowerImage} alt="button/img"/>
+                    <a href="https://webessentials.com.br/">
+                        <img src={PowerImage} alt="button/img"/>
+                    </a>
                 </PowerButton>
             </Wrap>
         </div>
